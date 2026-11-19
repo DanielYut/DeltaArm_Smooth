@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+uploader/lib/logs/
